@@ -1,1 +1,5 @@
 Backend API for mediQuick 
+
+We implemented a generative AI-powered agentic workflow to make the platform more useful for healthcare professionals (HCPs). The AI helps match a doctor with relevant peers based on their professional profile, specialty, and locality, so they can connect with other physicians who have relevant clinical interests or experience.
+We also used AI to solve the problem of information overload. Instead of requiring HCPs to manually search through a large volume of resources and discussions, the AI semantically evaluates the available content and identifies the discussions, resources, and information most relevant to the HCP's question or search intent. This allows the platform to surface meaningful content even when there is not an exact keyword match.
+The goal was to create an agentic workflow where the AI understands the HCP's intent, determines what type of information or connection is most useful, searches the appropriate sources, and returns a focused set of relevant results rather than overwhelming the user with everything available.
